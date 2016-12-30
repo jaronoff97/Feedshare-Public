@@ -27,15 +27,9 @@ A [Firebase](https://firebase.google.com) account is also needed. The security r
 Run:
 
 ```bash
-git clone https://github.com/bruz/react-native-redux-groceries.git groceries
-cd groceries
+git clone https://github.com/jaronoff97/Feedshare-Public.git Feedshare
+cd Feedshare
 npm install
-```
-
-Configure:
-
-```bash
-cp config.js.example config.js
 ```
 
 Update config.js with your Firebase app credentials.
